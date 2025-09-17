@@ -56,7 +56,3 @@ AI-CFG-Optimizer/
 - Dragon Book, Ch. 9
 - LLVM LangRef + Passes docs
 - CFG tutorials (CMU)
-
----
-
-> Replace `Your Name` in `LICENSE` and update this README as the project evolves.
